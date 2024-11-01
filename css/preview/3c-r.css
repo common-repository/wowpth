@@ -1,0 +1,62 @@
+#pre_header{
+	width: 360px;
+	height: 60px;
+	margin: 0px auto;
+	top: 10px;
+}
+
+#pre_topOutArea{
+	width: 360px;
+	height: 20px;
+	margin: 0px auto;
+	top: 15px;
+}
+
+#pre_topInArea{
+	width: 180px;
+	height: 20px;
+	left: 278px;
+	top: 20px;
+}
+
+#pre_mainCol{
+	width: 180px;
+	height: 200px;
+	left: 278px;
+	top: 25px;
+}
+
+#pre_sidebar1{
+	width: 80px;
+	height: 253px;
+	left: 100px;
+	top: -270px;
+}
+
+#pre_sidebar2{
+	width: 80px;
+	height: 255px;
+	left: 190px;
+	top: -526px;
+}
+
+#pre_bottomInArea{
+	width: 180px;
+	height: 20px;
+	left: 278px;
+	top: 30px;
+}
+
+#pre_footer1{
+	width: 360px;
+	height: 20px;
+	margin: 0px auto;
+	top: 35px;
+}
+
+#pre_footer2{
+	width: 360px;
+	height: 20px;
+	margin: 0px auto;
+	top: 40px;
+}

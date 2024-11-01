@@ -1,0 +1,31 @@
+/*
+LAYOUT: Two-Column (Right)
+DESCRIPTION: Two-column fluid layout with one sidebars right of content
+*/
+
+#container {
+	float: left;
+	margin: 0 -200px 0 0;
+	width: 100%;
+}
+#content {
+	margin: 0 200px 0 0;
+}
+#sidebar1, #sidebar2 {
+	float: right;
+	overflow: hidden;
+	width: 180px;
+}
+#sidebar2 {
+	clear: right;
+}
+#footer {
+	clear: both;
+	width: 100%;
+}
+#topInWidgetArea{
+	margin: 0 200px 0 0;
+}
+#bottomInWidgetArea{
+	margin: 0 200px 0 0;
+}
